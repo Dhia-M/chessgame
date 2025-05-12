@@ -1,2 +1,2 @@
 # chessgame
-chessgame with pygame
+chessgame with pygame unfinished
